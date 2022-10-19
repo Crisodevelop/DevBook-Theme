@@ -1,0 +1,21 @@
+[debug] [2022-10-19T09:43:13.710Z] ----------------------------------------------------------------------
+[debug] [2022-10-19T09:43:13.712Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\crist\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-10-19T09:43:13.713Z] CLI Version:   11.15.0
+[debug] [2022-10-19T09:43:13.713Z] Platform:      win32
+[debug] [2022-10-19T09:43:13.713Z] Node Version:  v16.17.0
+[debug] [2022-10-19T09:43:13.715Z] Time:          Wed Oct 19 2022 11:43:13 GMT+0200 (hora de verano de Europa central)
+[debug] [2022-10-19T09:43:13.716Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-10-19T09:43:13.728Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-10-19T09:43:13.728Z] > authorizing via signed-in user (crisodevelop@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\crist\Desktop\DevBook-Theme
+
